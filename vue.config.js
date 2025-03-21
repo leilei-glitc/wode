@@ -1,5 +1,4 @@
 module.exports = {
-  publicPath: '/wode/',
   outputDir: 'dist',
   assetsDir: 'static',
   productionSourceMap: false,
