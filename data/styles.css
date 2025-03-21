@@ -1,0 +1,362 @@
+﻿.ax_default {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:13px;
+  letter-spacing:normal;
+  color:#333333;
+  vertical-align:none;
+  text-align:center;
+  line-height:normal;
+  text-transform:none;
+}
+.box_1 {
+  font-family:"Impact Normal", "Impact", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.box_2 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.box_3 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.ellipse {
+}
+.text_link {
+  color:#0000FF;
+}
+._一级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+._二级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:24px;
+  text-align:left;
+}
+._三级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+._四级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._五级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  text-align:left;
+}
+._六级标题 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:10px;
+  text-align:left;
+}
+.label {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._文本段落 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+._表单提示 {
+  color:#999999;
+}
+._表单禁用 {
+}
+.line {
+}
+._流程形状 {
+}
+._一级标题1 {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+._形状 {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#666666;
+}
+._默认样式 {
+  font-family:'PingFangHK-Regular', 'PingFang HK', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.icon {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.paragraph {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:left;
+}
+.shape {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.box_11 {
+}
+.box_21 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.line1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.text_field {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.box_31 {
+}
+.table_cell {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.label1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.ellipse1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.primary_button {
+  color:#FFFFFF;
+}
+.heading_1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:32px;
+  text-align:left;
+}
+.heading_3 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:bold;
+  font-style:normal;
+  font-size:18px;
+  text-align:left;
+}
+.primary_button1 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#FFFFFF;
+}
+.button {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.text_field1 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  color:#000000;
+  text-align:left;
+}
+.text_area {
+  color:#000000;
+  text-align:left;
+}
+.table_cell1 {
+}
+.form_hint {
+  color:#999999;
+}
+.form_disabled {
+}
+._图片_ {
+}
+._图片 {
+}
+._默认样式1 {
+}
+.icon1 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.icon2 {
+}
+.shape1 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.shape2 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:normal;
+  font-style:normal;
+  font-size:14px;
+  color:#333333;
+  text-align:center;
+  line-height:normal;
+}
+.flow_shape {
+}
+._图片1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+.flow_shape1 {
+}
+.image {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.shape3 {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._28号字_页面备注信息及列表的表头说明文字__） {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+  text-align:left;
+}
+.horizontal_line {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.image1 {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+._图片2 {
+  font-family:'SourceHanSansSC-Regular', '思源黑体', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#333333;
+}
+.refs-chart-data {
+  font-family:"Arial Normal", "Arial", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.text_area1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  color:#000000;
+  text-align:left;
+}
+.tree_node {
+  text-align:left;
+}
+.shape4 {
+  font-family:'PingFangSC-Regular', 'PingFang SC', sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:12px;
+  color:#FFFFFF;
+  text-align:center;
+  line-height:normal;
+}
+._图片_1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._形状1 {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  font-size:14px;
+}
+._文本链接 {
+  color:#0000FF;
+}
+.text_link_mouse_down {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.text_link_mouse_over {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+.html_button {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+  text-align:center;
+}
+.snapshot {
+  font-family:"Noto Sans CJK", sans-serif;
+  font-weight:400;
+  font-style:normal;
+}
+textarea, select, input, button { outline: none; }
